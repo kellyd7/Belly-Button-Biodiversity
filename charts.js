@@ -170,8 +170,7 @@ var gaugeData = [
         {range: [8,10], color: "green"}
       ],
     }
-  };   
-  
+  }  
 ];
 
 // 5. Create the layout for the gauge chart.
